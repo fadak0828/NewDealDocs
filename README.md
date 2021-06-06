@@ -23,7 +23,12 @@
 
 ### 3. 공모전 아이디어
 - 빅데이터 기반 교육 자료 제작 도구
-    * 구글 독스, 프레젠테이션 + 저작물 검사기 (유튜브) + 더빙
+    * 구글 독스, 프레젠테이션 + 저작물 검사기 (유튜브) + 더빙?
+
+### 4. 참고자료
+- [교육목적 저작물 이용지침](https://www.copyright.or.kr/education/educlass/share/data/download.do?brdctsno=12922&brdctsfileno=7710)
+- [유튜브 스튜디오](https://studio.youtube.com/)
+- [구글 Docs](https://docs.google.com)
 
 <hr/>
 
@@ -33,8 +38,8 @@
 > (차세대 플랫폼 구축) AI·빅데이터 기반 개인 맞춤형 강좌 추천, 다양한 교수법(가상실습, 대화형 학습 등) 구현 가능한 플랫폼 구축
 
 ### 1. 착안점
-- 기존 비디오 강좌의 단방향성
-- 기간이 지날수록 노후되는 비디오 강좌
+- 기존 비디오 강의의 단방향성
+- 점점 빨라지는 강의 노후화
 
 ### 2. 공모전 아이디어
 - 머신러닝 기반 진화형 강의
@@ -43,3 +48,9 @@
         * 강좌 <=> 수강생 (온라인 과제, 퀴즈)
     * 머신러닝
         * 크라우드 소싱으로 얻은 데이터들을 활용하여 이수율, 학습률이 높은 쪽으로 강의가 스스로 진화하게 설계(강의 내용, 과제, 퀴즈, QnA 등)
+
+### 3. 참고자료
+- [K-MOOC 21년도 기본계획](https://www.kmooc.kr/comm_view/N/1/460)
+- [K-MOOC 위키피디아](https://ko.wikipedia.org/wiki/MOOC)
+- [Udacity](https://www.udacity.com/)
+- [인프런](https://www.inflearn.com/)
